@@ -127,8 +127,8 @@ li {
 
 
 nav {
-    background-color: blue;
     overflow: hidden;
+    position: fixed;
 }
 
 nav a {
