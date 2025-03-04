@@ -46,7 +46,7 @@ p {
     line-height: 2; /* Increase line height to create more space */
 }
 p1 {
-    line-height: 1.5; /* Increase line height to create more space */
+    line-height: 1; /* Increase line height to create more space */
 }
 
 
@@ -87,7 +87,7 @@ li {
     height: 60px;
     background: rgb(65, 241, 21);
     color: white;
-    font-size: 28px;
+    font-size: 32px;
     border-radius: 50%;
     text-decoration: none;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
@@ -103,7 +103,7 @@ li {
     height: 60px;
     background: rgb(65, 241, 21);
     color: white;
-    font-size: 28px;
+    font-size: 36px;
     border-radius: 50%;
     text-decoration: none;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
@@ -112,12 +112,12 @@ li {
 
 .floating-icons a.call {
     background: #007bff; /* Blue Color for Call */
-    right: 30px;
+    right: 20px;
 }
 
 .floating-icons a.whatsapp {
     background: #25D366; /* WhatsApp Green */
-    left: 30px;
+    left: 20px;
 }
 
 /* Hover Effect */
