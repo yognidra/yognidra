@@ -11,7 +11,7 @@ header {
     color: #f3ef13;
     font-size: 20px;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 30px;
     
     
     
@@ -87,7 +87,7 @@ li {
     height: 60px;
     background: rgb(65, 241, 21);
     color: white;
-    font-size: 140px;
+    font-size: 28px;
     border-radius: 50%;
     text-decoration: none;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
@@ -103,7 +103,7 @@ li {
     height: 60px;
     background: rgb(65, 241, 21);
     color: white;
-    font-size: 155px;
+    font-size: 28px;
     border-radius: 50%;
     text-decoration: none;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
