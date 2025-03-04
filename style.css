@@ -98,8 +98,8 @@ li {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 60px;
-    height: 60px;
+    width: 100px;
+    height: 100px;
     background: rgb(65, 241, 21);
     color: white;
     font-size: 60px;
@@ -129,8 +129,6 @@ li {
 nav {
     overflow: hidden;
     position: fixed;
-   
-    background-color: rgb(244, 19, 19);
 }
 
 nav a {
