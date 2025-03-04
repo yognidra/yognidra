@@ -129,6 +129,8 @@ li {
 nav {
     overflow: hidden;
     position: fixed;
+   
+    background-color: rgb(244, 19, 19);
 }
 
 nav a {
