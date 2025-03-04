@@ -143,11 +143,12 @@ nav {
 nav a {
     float: left;
     display: block;
-    color: #000000;
+    color:red;
+    
     text-align: center;
   
-    font-size: 30px;
-    padding: 14px 20px;
+    font-size: 40px;
+    padding: 14px 10px;
     text-decoration: none;
 }
 
